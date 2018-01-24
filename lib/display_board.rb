@@ -3,4 +3,10 @@ def display_board
   cell = "   "
   row = cell | cell | cell
   rows = "-----------"
+
+  row
+  rows
+  row
+  rows
+  row
 end
