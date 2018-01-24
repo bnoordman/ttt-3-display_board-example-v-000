@@ -5,8 +5,3 @@ def display_board
   rows = "-----------"
 end
 
-row
-rows
-row
-rows
-row
